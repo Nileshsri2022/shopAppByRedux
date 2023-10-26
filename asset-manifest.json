@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shopAppByRedux/static/css/main.210141be.css",
+    "main.js": "/shopAppByRedux/static/js/main.80e37e3e.js",
+    "index.html": "/shopAppByRedux/index.html",
+    "main.210141be.css.map": "/shopAppByRedux/static/css/main.210141be.css.map",
+    "main.80e37e3e.js.map": "/shopAppByRedux/static/js/main.80e37e3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.210141be.css",
+    "static/js/main.80e37e3e.js"
+  ]
+}
